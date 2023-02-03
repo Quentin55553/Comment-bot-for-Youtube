@@ -1,5 +1,5 @@
 ################################
-####Made by Novritch - GitHub###
+####Made by Quentin - GitHub###
 # quentin.fillion.95@outlook.fr #
 #################################
 # Requirements to run this script correctly :
