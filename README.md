@@ -1,1 +1,1 @@
-Program that takes the link of your YouTube playlist, and automatically writes the comment you have chosen by running the script below each video in the playlist.
+Program that takes a comment and the link of your YouTube playlist as input and automatically writes it below each video in the playlist.
